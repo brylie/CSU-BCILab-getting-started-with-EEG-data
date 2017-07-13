@@ -1,2 +1,6 @@
-# CSU-BCILab-getting-started-with-EEG-data
+# Colorado State University  Brain Computer Interface Lab - getting started with EEG data
+
 Tutorial from Colorado State University BCI Lab on getting started with EEG data.
+
+- http://www.cs.colostate.edu/eeg/data/json/doc/tutorial/_build/html/index.html
+- http://www.cs.colostate.edu/eeg/main/data/2011-12_BCI_at_CSU
